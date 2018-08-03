@@ -18,7 +18,7 @@ In Cmd
 <ul>
 
 # For Mac User
-<strong>
+
 In Terminal
-</strong>
+
 <li>react-native run-ios</li>
