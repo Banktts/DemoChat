@@ -1,6 +1,8 @@
 # DemoChat
-<strong>Install part in cmd or terminal</strong>
+<strong>Installation in cmd or terminal</strong>
 <li>npm install</li>
+*** requirement basic dependencies read more
+<href> https://facebook.github.io/react-native/docs/getting-started </href>
 
 # For Windows User
 <strong>
@@ -21,4 +23,6 @@ In Cmd
 <strong>
 In Terminal
 </strong>
+<ul>
 <li>react-native run-ios</li>
+</ul>
