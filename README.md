@@ -2,12 +2,14 @@
 <li>npm install</li>
 
 # For Windows User
-// Android Studio
+Android Studio
+<ul>
 <li>First => Run android simulator</li>
-// In Cmd
+</ul>
+In Cmd
 <li>Second => npm start</li>
 <li>Third => react-native run-android</li>
 
 # For Mac User
-// In Terminal
+In Terminal
 <li>react-native run-ios</li>
