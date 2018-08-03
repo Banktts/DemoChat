@@ -15,10 +15,10 @@ In Cmd
 <ul>
 <li>Second => npm start</li>
 <li>Third => react-native run-android</li>
-<ul>
+</ul>
 
 # For Mac User
-
+<strong>
 In Terminal
-
+</strong>
 <li>react-native run-ios</li>
