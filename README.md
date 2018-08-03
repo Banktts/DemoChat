@@ -1,2 +1,2 @@
 # DemoChat
-<ui>npm install</ui>
+<li>npm install</li>
