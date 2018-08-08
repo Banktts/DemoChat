@@ -17,7 +17,10 @@ class Header_p extends Component {
         var _this = this
         database.ref('/chat1').once('value').then(function (snapshot) {
             var chat1_bf = (snapshot.val());
-            _this.setState({ chat1: chat1_bf })
+            if(chat1_bf !== null){
+                 _this.setState({ chat1: chat1_bf })
+            }
+           
             
         })   
         
